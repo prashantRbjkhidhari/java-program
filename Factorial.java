@@ -14,3 +14,6 @@ public class Factorial{
         sc.close();
     }
 }
+// long =19 digit only
+//that why 99 showing 0
+//for greater then 19 use BigInteger 
